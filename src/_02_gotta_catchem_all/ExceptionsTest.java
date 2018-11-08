@@ -30,7 +30,7 @@ class ExceptionsTest {
 	//   should throw an IllegalArgumentException if the denominator is 0.0.
 	
 	//3. Complete the JUnit test method to test the divide method.
-	/*@Test
+	@Test
 	public void testDivideByZeroException() {
 		double x = 1.0;
 		double y = 0.0;
@@ -65,7 +65,7 @@ class ExceptionsTest {
 			e.printStackTrace();
 			assertEquals(z,"olleh");
 		}
-	}*/
+	}
 	
 	
 	
